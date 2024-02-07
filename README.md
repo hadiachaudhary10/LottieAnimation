@@ -3,7 +3,6 @@ Animate a view from one position to another
 
 ## ✅ Screenshots
 
-<img src="https://github.com/hadiachaudhary10/littlelemon/blob/main/Wireframe.jpg" width="350" height="400" />
 <p>
 <img src="https://github.com/hadiachaudhary10/LottieAnimation/blob/main/LottieAnimation/Animation%20Video.mp4" width="200" height="400" />
 </p>
