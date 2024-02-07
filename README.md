@@ -4,7 +4,7 @@ Animate a view from one position to another
 ## ✅ Screenshots
 
 <p>
-<img src="https://github.com/hadiachaudhary10/LottieAnimation/blob/main/LottieAnimation/Animation%20Video.mp4" width="200" height="400" />
+<img src="https://github.com/hadiachaudhary10/LottieAnimation/blob/main/LottieAnimation/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202024-02-07%20at%2016.32.05.png" width="200" height="400" />
 </p>
 
 ## 🚀 About Me
