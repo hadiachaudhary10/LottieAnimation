@@ -17,7 +17,7 @@ Experienced iOS developer proficient in Swift, Objective-C, and SwiftUI, seeking
 
 
 ## 💯 Concepts Utilised
-SwiftUI, Core Data, MVVM Architecture, Google Fonts
+SwiftUI, SPM, Lottie Package
 
 
 ## 🛠 Skills
