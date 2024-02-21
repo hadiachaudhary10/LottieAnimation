@@ -1,5 +1,5 @@
 # 🎯 Goal of the Project
-The aim of this project was to animate a view from one position to another.
+The aim of this project is to animate a view from one position to another.
 
 ## ✅ Screenshots
 
