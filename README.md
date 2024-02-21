@@ -1,4 +1,4 @@
-# 🎯 LottieAnimation
+# 🎯 Goal Of The Project
 The aim of this project was to animate a view from one position to another.
 
 ## ✅ Screenshots
